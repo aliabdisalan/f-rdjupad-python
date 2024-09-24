@@ -1,0 +1,22 @@
+INFO:root:2024-09-15 13:15:00.181311: Data fetched from C:\Users\Deknas\Desktop\Kunskapskontroll2_VG\data.csv
+INFO:root:2024-09-15 13:15:00.182308: Data processed successfully
+INFO:root:2024-09-15 13:15:00.193905: SQL table updated successfully
+WARNING:root:Ogiltiga datum hittade:
+  date  value
+3  NaT    400
+8  NaT    900
+9  NaT   1234
+INFO:root:2024-09-15 13:15:00.198401:
+
+Table:
+          date  value
+0  2022-09-12    100
+1  2022-09-13    200
+2  2022-09-14    300
+4  2022-09-16    500
+5  2022-09-17    600
+6  2022-09-18    700
+7  2022-09-19    800
+10 2024-06-20   2020
+
+--------------------------
